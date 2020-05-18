@@ -1,0 +1,100 @@
+cidade:1
+cidade:2
+cidade:3
+cidade:4
+cidade:5
+cidade:6
+cidade:7
+cidade:8
+cidade:9
+cidade:10
+distancia de para:1x2=27
+distancia de para:1x3=60
+distancia de para:1x4=83
+distancia de para:1x5=98
+distancia de para:1x6=113
+distancia de para:1x7=140
+distancia de para:1x8=149
+distancia de para:1x9=196
+distancia de para:1x10=203
+distancia de para:2x1=27
+distancia de para:2x3=20
+distancia de para:2x4=66
+distancia de para:2x5=85
+distancia de para:2x6=112
+distancia de para:2x7=123
+distancia de para:2x8=146
+distancia de para:2x9=147
+distancia de para:2x10=153
+distancia de para:3x1=60
+distancia de para:3x2=20
+distancia de para:3x4=28
+distancia de para:3x5=51
+distancia de para:3x6=70
+distancia de para:3x7=96
+distancia de para:3x8=120
+distancia de para:3x9=139
+distancia de para:3x10=162
+distancia de para:4x1=83
+distancia de para:4x2=66
+distancia de para:4x3=28
+distancia de para:4x5=28
+distancia de para:4x6=51
+distancia de para:4x7=99
+distancia de para:4x8=122
+distancia de para:4x9=168
+distancia de para:4x10=216
+distancia de para:5x1=98
+distancia de para:5x2=85
+distancia de para:5x3=51
+distancia de para:5x4=28
+distancia de para:5x6=5
+distancia de para:5x7=21
+distancia de para:5x8=31
+distancia de para:5x9=48
+distancia de para:5x10=64
+distancia de para:6x1=113
+distancia de para:6x2=112
+distancia de para:6x3=70
+distancia de para:6x4=51
+distancia de para:6x5=5
+distancia de para:6x7=19
+distancia de para:6x8=28
+distancia de para:6x9=56
+distancia de para:6x10=76
+distancia de para:7x1=140
+distancia de para:7x2=123
+distancia de para:7x3=97
+distancia de para:7x4=99
+distancia de para:7x5=21
+distancia de para:7x6=19
+distancia de para:7x8=21
+distancia de para:7x9=34
+distancia de para:7x10=40
+distancia de para:8x1=149
+distancia de para:8x2=146
+distancia de para:8x3=120
+distancia de para:8x4=122
+distancia de para:8x5=31
+distancia de para:8x6=28
+distancia de para:8x7=24
+distancia de para:8x9=24
+distancia de para:8x10=48
+distancia de para:9x1=196
+distancia de para:9x2=147
+distancia de para:9x3=139
+distancia de para:9x4=168
+distancia de para:9x5=48
+distancia de para:9x6=56
+distancia de para:9x7=34
+distancia de para:9x8=24
+distancia de para:9x10=5
+distancia de para:10x1=203
+distancia de para:10x2=153
+distancia de para:10x3=162
+distancia de para:10x4=216
+distancia de para:10x5=64
+distancia de para:10x6=76
+distancia de para:10x7=40
+distancia de para:10x8=48
+distancia de para:10x9=5
